@@ -1,3 +1,3 @@
 # helloWorld
 
-Repository de la quête Wild Code School
+Quest Repository of Wild Code School
